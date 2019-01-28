@@ -5,8 +5,12 @@
 class SparseRow
 {
     public:
-        SparseRow();
-        display();
+        SparseRow(); row = -1; col = -1; val = 0;
+        display(); // Print Row#, Column #, value.
+
+        //OTHER METHODS SUCH AS GETTERS AND SETTERS.
+
+
 
 
 

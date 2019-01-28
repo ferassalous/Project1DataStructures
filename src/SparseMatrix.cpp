@@ -1,11 +1,10 @@
 #include "SparseMatrix.h"
+#include "SparseRow.h"
 
-SparseMatrix::SparseMatrix()
+
+SparseMatrix::SparseMatrix(int n, int m, int cv, int noNSV)
 {
-    //ctor
+
 }
 
-SparseMatrix::~SparseMatrix()
-{
-    //dtor
-}
+
