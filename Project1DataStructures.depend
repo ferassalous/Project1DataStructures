@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1548647083 source:c:\users\feras\desktop\project1c++\project1datastructures\main.cpp
+	<iostream>
+	"SparseRow.h"
+
+1548646941 c:\users\feras\desktop\project1c++\project1datastructures\include\sparserow.h
+
+1548647105 source:c:\users\feras\desktop\project1c++\project1datastructures\src\sparserow.cpp
+	"SparseRow.h"
+	<iostream>
+
